@@ -1,2 +1,2 @@
 # Skwiker
-Social Network for Mobile Application class
+Social Network for Mobile Application class -- PWA
