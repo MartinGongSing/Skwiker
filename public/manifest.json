@@ -1,0 +1,16 @@
+{
+	"name": "PROXX",
+	"short_name": "PROXX",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"theme_color": "#0E113E",
+	"background_color": "#0E113E",
+	"icons": [
+		{
+			"src": "/icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
