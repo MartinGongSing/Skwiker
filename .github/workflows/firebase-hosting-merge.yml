@@ -17,5 +17,7 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PWA_APP_515E2 }}'
           channelId: live
           projectId: pwa-app-515e2
+          expires: 30d 
+          entryPoint: "./pwaapp" 
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
